@@ -1,0 +1,12 @@
+[24-Jul-2021 18:10:52 Asia/Tehran] PHP Warning:  require_once(nusoap.php): failed to open stream: No such file or directory in /home/projec37/public_html/presenter/page/Add_student.php on line 4
+[24-Jul-2021 18:10:52 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'nusoap.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/projec37/public_html/presenter/page/Add_student.php on line 4
+[24-Jul-2021 18:55:05 Asia/Tehran] PHP Warning:  include(confing.php): failed to open stream: No such file or directory in /home/projec37/public_html/presenter/page/Chat_log.php on line 2
+[24-Jul-2021 18:55:05 Asia/Tehran] PHP Warning:  include(confing.php): failed to open stream: No such file or directory in /home/projec37/public_html/presenter/page/Chat_log.php on line 2
+[24-Jul-2021 18:55:05 Asia/Tehran] PHP Warning:  include(): Failed opening 'confing.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/projec37/public_html/presenter/page/Chat_log.php on line 2
+[24-Jul-2021 18:55:05 Asia/Tehran] PHP Fatal error:  Call to undefined function getrecord() in /home/projec37/public_html/presenter/page/menu.php on line 6
+[24-Jul-2021 18:55:16 Asia/Tehran] PHP Warning:  include(confing.php): failed to open stream: No such file or directory in /home/projec37/public_html/presenter/page/Chat_log.php on line 2
+[24-Jul-2021 18:55:16 Asia/Tehran] PHP Warning:  include(confing.php): failed to open stream: No such file or directory in /home/projec37/public_html/presenter/page/Chat_log.php on line 2
+[24-Jul-2021 18:55:16 Asia/Tehran] PHP Warning:  include(): Failed opening 'confing.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/projec37/public_html/presenter/page/Chat_log.php on line 2
+[24-Jul-2021 18:55:16 Asia/Tehran] PHP Fatal error:  Call to undefined function getrecord() in /home/projec37/public_html/presenter/page/menu.php on line 6
+[28-Jul-2021 11:21:14 Asia/Tehran] PHP Fatal error:  Call to undefined function getrecord() in /home/projec37/public_html/presenter/page/menu.php on line 8
+[28-Jul-2021 14:06:56 Asia/Tehran] PHP Fatal error:  Call to undefined function getrecord() in /home/projec37/public_html/presenter/page/menu.php on line 8

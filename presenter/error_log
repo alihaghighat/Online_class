@@ -1,0 +1,81 @@
+[01-Jun-2021 22:12:58 Asia/Tehran] PHP Fatal error:  Class 'Colors' not found in /home/projec37/public_html/presenter/index.php on line 2
+[08-Jun-2021 21:10:03 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''contentSh' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/projec37/public_html/presenter/index.php on line 321
+[08-Jun-2021 21:10:04 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''contentSh' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/projec37/public_html/presenter/index.php on line 321
+[08-Jun-2021 21:12:55 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''contentSh' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/projec37/public_html/presenter/index.php on line 321
+[08-Jun-2021 21:12:56 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''contentSh' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/projec37/public_html/presenter/index.php on line 321
+[08-Jun-2021 21:12:57 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''contentSh' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/projec37/public_html/presenter/index.php on line 321
+[08-Jun-2021 21:15:33 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''contentSh' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/projec37/public_html/presenter/index.php on line 321
+[08-Jun-2021 21:15:34 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''contentSh' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/projec37/public_html/presenter/index.php on line 321
+[08-Jun-2021 21:15:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''contentSh' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/projec37/public_html/presenter/index.php on line 321
+[08-Jun-2021 21:20:30 Asia/Tehran] PHP Parse error:  syntax error, unexpected ''contentSh' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/projec37/public_html/presenter/index.php on line 321
+[10-Jul-2021 21:58:36 Asia/Tehran] PHP Parse error:  syntax error, unexpected ')' in /home/projec37/public_html/presenter/Student_list.php on line 87
+[10-Jul-2021 21:58:54 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/public_html/presenter/Student_list.php on line 87
+[10-Jul-2021 22:05:22 Asia/Tehran] PHP Fatal error:  Class 'nusoap_client' not found in /home/projec37/public_html/presenter/Add_student.php on line 26
+[12-Jul-2021 19:45:13 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/projec37/public_html/presenter/Add_class.php on line 36
+[12-Jul-2021 22:00:49 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/projec37/public_html/presenter/add-student-to-class.php on line 39
+[12-Jul-2021 22:01:03 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/projec37/public_html/presenter/add-student-to-class.php on line 35
+[12-Jul-2021 22:01:05 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/projec37/public_html/presenter/add-student-to-class.php on line 35
+[13-Jul-2021 23:50:45 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/projec37/public_html/presenter/log.php on line 65
+[14-Jul-2021 09:20:43 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'ک' (T_STRING) in /home/projec37/public_html/presenter/log-dtaile.php on line 110
+[14-Jul-2021 09:20:44 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'ک' (T_STRING) in /home/projec37/public_html/presenter/log-dtaile.php on line 110
+[14-Jul-2021 09:30:22 Asia/Tehran] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2021-13-07 22:37) at position 6 (3): Unexpected character' in /home/projec37/public_html/presenter/log-dtaile.php:111
+Stack trace:
+#0 /home/projec37/public_html/presenter/log-dtaile.php(111): DateTime->__construct('2021-13-07 22:3...')
+#1 {main}
+  thrown in /home/projec37/public_html/presenter/log-dtaile.php on line 111
+[14-Jul-2021 09:30:23 Asia/Tehran] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (2021-13-07 22:37) at position 6 (3): Unexpected character' in /home/projec37/public_html/presenter/log-dtaile.php:111
+Stack trace:
+#0 /home/projec37/public_html/presenter/log-dtaile.php(111): DateTime->__construct('2021-13-07 22:3...')
+#1 {main}
+  thrown in /home/projec37/public_html/presenter/log-dtaile.php on line 111
+[14-Jul-2021 09:41:12 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:12 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:12 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:12 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:39 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:39 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:39 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:39 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:40 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:40 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:40 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:40 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:58 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:58 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:58 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:58 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:59 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:59 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:59 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:41:59 Asia/Tehran] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, string given in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:43:47 Asia/Tehran] PHP Warning:  Illegal string offset 'time_srart' in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:43:47 Asia/Tehran] PHP Warning:  Illegal string offset 'time_srart' in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:43:47 Asia/Tehran] PHP Warning:  Illegal string offset 'time_srart' in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:43:47 Asia/Tehran] PHP Warning:  Illegal string offset 'time_srart' in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:44:48 Asia/Tehran] PHP Warning:  Illegal string offset 'time_end' in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:44:48 Asia/Tehran] PHP Warning:  Illegal string offset 'time_end' in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:44:48 Asia/Tehran] PHP Warning:  Illegal string offset 'time_end' in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 09:44:48 Asia/Tehran] PHP Warning:  Illegal string offset 'time_end' in /home/projec37/public_html/presenter/log-dtaile.php on line 112
+[14-Jul-2021 20:38:50 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/public_html/presenter/log.php on line 95
+[14-Jul-2021 22:36:42 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/projec37/public_html/presenter/log-dtaile-chat.php on line 100
+[22-Jul-2021 18:17:21 Asia/Tehran] PHP Warning:  include(menu.pho): failed to open stream: No such file or directory in /home/projec37/public_html/presenter/Add_student.php on line 67
+[22-Jul-2021 18:17:21 Asia/Tehran] PHP Warning:  include(menu.pho): failed to open stream: No such file or directory in /home/projec37/public_html/presenter/Add_student.php on line 67
+[22-Jul-2021 18:17:21 Asia/Tehran] PHP Warning:  include(): Failed opening 'menu.pho' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/projec37/public_html/presenter/Add_student.php on line 67
+[23-Jul-2021 01:07:57 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/projec37/public_html/presenter/Class_list.php on line 47
+[27-Jul-2021 17:06:15 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:17 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:33 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:34 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:34 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:36 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:37 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:38 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:39 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:39 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:47 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[27-Jul-2021 17:06:47 Asia/Tehran] PHP Parse error:  syntax error, unexpected '$getstarat' (T_VARIABLE) in /home/projec37/public_html/presenter/index.php on line 13
+[29-Jul-2021 10:16:29 Asia/Tehran] PHP Fatal error:  Call to a member function colors() on null in /home/projec37/public_html/presenter/index.php on line 5
+[29-Jul-2021 10:16:31 Asia/Tehran] PHP Fatal error:  Call to a member function colors() on null in /home/projec37/public_html/presenter/index.php on line 5
+[29-Jul-2021 10:16:38 Asia/Tehran] PHP Fatal error:  Call to a member function colors() on null in /home/projec37/public_html/presenter/index.php on line 5

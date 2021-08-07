@@ -1,0 +1,77 @@
+.container {
+  display: flex;
+  align-items: center !important;
+  justify-content: center !important;
+  height: 100%;
+}
+
+.frame {
+  border-radius: 10px;
+  width: 330px;
+  height: auto;
+  overflow: hidden;
+  display: flex;
+}
+
+.login-card {
+  width: 330px;
+  overflow: hidden;
+}
+
+.login-card-content {
+  width: 330px;
+}
+
+.login-card-header {
+  background-color: #02577a !important;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+.login-card-body {
+  padding: 20px;
+}
+
+@keyframes moveLoginCard {
+  from {
+    width: 330px;
+  }
+
+  to {
+    width: 0px;
+  }
+}
+
+@keyframes moveBackLoginCard {
+  from {
+    width: 0px;
+  }
+
+  to {
+    width: 330px;
+  }
+}
+
+.signup-card {
+  flex: 1;
+  width: 330px;
+  overflow: hidden;
+}
+
+.signup-card-content {
+  width: 330px;
+}
+
+.signup-card-header {
+  background-color: #02577a !important;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+.signup-card-body {
+  padding: 20px;
+}
